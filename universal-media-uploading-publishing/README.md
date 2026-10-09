@@ -7,3 +7,5 @@
 **What to bring:** Bring the approved final file, destinations, format requirements, captions, links, timing, disclosure needs, account permissions, and budget.
 
 The starter prompt asks about your project and desired outcome, checks for critical gaps, then adapts its help to your answers. It does not assume every reader has the same tools or account access. Any paid service, account connection, or public action remains subject to your choice and authorization.
+
+Full workflow: see the [complete workflow](complete-workflow.md) for the full delivery process and records.

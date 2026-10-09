@@ -10,3 +10,4 @@ The prompt asks for critical missing context, shows a proposed map, and waits fo
 
 Any AI service may apply its own plan or usage limits; check the terms for the tool you choose. No image generation is needed for a server map and copy. List the channels, roles, content, or settings you want protected, and changes wait until you approve the proposed map. A live review or server change requires the right Discord access.
 
+Full workflow: see the [complete workflow](complete-workflow.md) for a full map-first, approval-led process.

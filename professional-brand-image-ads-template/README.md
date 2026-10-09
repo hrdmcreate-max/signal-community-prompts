@@ -7,3 +7,5 @@
 **What to bring:** Bring one current offer or message, audience, brand assets, exact claims, target size, tools, budget, and anything the design must preserve.
 
 The starter prompt asks about your project and desired outcome, checks for critical gaps, then adapts its help to your answers. It does not assume every reader has the same tools or account access. Any paid service, account connection, or public action remains subject to your choice and authorization.
+
+Full workflow: see the [complete workflow](complete-workflow.md) for the complete universal brief, production sequence, and review guide.

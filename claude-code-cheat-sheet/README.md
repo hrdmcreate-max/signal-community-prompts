@@ -6,4 +6,6 @@
 
 **What to bring:** The project or repository, the result you want, any constraints or files to protect, your available tools, and any usage or budget limit.
 
-This is an original quick-start reference built from official Claude Code documentation. It does not reproduce the third-party cheat sheet.
+The supplied command reference is transcribed in the [complete workflow](complete-workflow.md), with attribution and the source caveat about partial screenshot columns. Commands and features may vary by installed release; check `claude --help` and `/help` before relying on an entry.
+
+The included starter prompt is a separate quick start for your coding task; it does not imply that every reference command is available in your setup.

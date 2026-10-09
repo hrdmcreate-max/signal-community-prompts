@@ -7,3 +7,5 @@
 **What to bring:** Bring your project or business context, desired audience and result, target platform/format, available footage, tools, budget or no-spend limit, and anything that must remain unchanged.
 
 The starter prompt asks about your project and desired outcome, checks for critical gaps, then adapts its help to your answers. It does not assume every reader has the same tools or account access. Any paid service, account connection, or public action remains subject to your choice and authorization.
+
+Full workflow: review the [complete workflow](complete-workflow.md) as well as the starter prompt.

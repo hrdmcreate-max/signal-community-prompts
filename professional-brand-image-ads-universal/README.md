@@ -10,3 +10,4 @@ The starter prompt asks about your project and desired outcome, checks for criti
 
 The included detailed kit has one Metricool-oriented version with official Metricool references. If you use a different scheduler, adapt that section to its current documentation; no account is connected by these files. The short starter and main advanced workflow are tool-flexible. The archive variants are grouped under `versions/`.
 
+Full workflow: see [complete workflow](complete-workflow.md), the retained source versions, and the supporting templates.
