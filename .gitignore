@@ -1,0 +1,22 @@
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+credentials.*
+
+# Local/editor and runtime output
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+node_modules/
+.venv/
+venv/
+__pycache__/

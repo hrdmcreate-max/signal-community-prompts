@@ -1,0 +1,86 @@
+> **Portability note:** This archived source-kit variant was written around a capable ChatGPT-style agent and Metricool. It is optional reference material, not the universal starter. Replace scheduler/image-tool steps with the services you actually use and verify their current official documentation, account access, plan limits, and costs. This document is guidance, not permission to connect, spend, schedule, or publish. For a tool-flexible workflow, start with the package-level `advanced-workflow.md`.
+
+UNIVERSAL IMAGE PROMPT TEMPLATES
+Replace all placeholders before submitting. Supply accessible references; a typed file path is not proof the tool received the image. “OMIT” means remove that field.
+
+1. CONCEPT ENHANCEMENT
+Convert this rough concept into one precise image-generation brief for the supplied brand. Preserve approved facts, exact copy, reference roles, and restrictions. Specify one audience/message/CTA; concrete scene; distinct person/product; natural action; light and camera; palette relationship; typography hierarchy; foreground/background depth; safe space; centered readable footer where required; and output placement/ratio. Resolve contradictions and remove duplicate adjectives. Do not invent offers, proof, client identities, readable screen content, or logo variants. Return the complete prompt and list any essential unresolved facts. Do not generate until the applicable sample/budget requirements are satisfied.
+
+Concept:
+Brand identity:
+Exact copy:
+Approved conditions:
+References and roles:
+Placement/ratio:
+Primary subject usage constraints:
+
+2. FINISHED PEOPLE-LED AD
+Use case: ads-marketing.
+Asset: one complete [RATIO] raster advertisement for [PLACEMENT].
+Brand/audience/action: [BRAND]; [AUDIENCE]; [ONE CTA].
+Core message: [APPROVED BENEFIT].
+Input 1: [LOGO] — exact logo reference, not a redesign.
+Input 2: [STYLE EXAMPLE] — visual hierarchy/depth only; ignore all old copy, faces, offers, URLs, and secondary branding.
+Input 3 if applicable: [REAL ASSET] — [EXPLICIT ROLE AND RIGHTS].
+Scene: [REAL-FEELING BUSINESS ENVIRONMENT], [RELEVANT MATERIALS], [TIME/LIGHT].
+Person: a distinct [AGE/APPEARANCE/HAIR/CLOTHING] [ROLE] naturally [ACTION], [EXPRESSION/GAZE]. Different identity from [ALREADY USED PRIMARY SUBJECTS]. Do not imply an actual testimonial.
+Photography: natural skin and hair, believable fabric, coherent shadows, correct anatomy and physical interaction; editorial commercial realism.
+Framing: [ANGLE/DISTANCE], subject in [ZONE], clean text space [ZONE]. [ENVIRONMENTAL ELEMENT] provides a purposeful depth layer.
+Design: [PALETTE RELATIONSHIP]; [TYPE CHARACTER]; [LIMITED GRAPHIC MOTIF].
+Hierarchy: oversized display words behind subject only where readable; essential headline in a clear foreground zone; separate support/CTA; faithful logo in clear space; calm footer. Faces, hands, product details, and critical letters unobstructed.
+Text verbatim:
+Background words: "[TEXT OR OMIT]"
+Headline: "[TEXT]"
+Support: "[TEXT OR OMIT]"
+Offer: "[TEXT OR OMIT]"
+CTA: "[TEXT]"
+Display URL: "[URL]"
+Footer: "[EXACT CONDITIONS WITH INTENTIONAL LINE BREAKS OR OMIT]"
+No other readable text anywhere, including signs, screens, notebook pages, clothing, and props.
+Footer: smaller and centered, high contrast, padded and readable at phone-feed scale; if crowded, revise composition rather than hide conditions.
+Output: one original polished complete advertisement, no contact sheet, watermark, fake results, or additional claims.
+
+3. PRODUCT / FOOD / RETAIL VARIANT
+Keep the purpose, exact-copy, identity, reference-role, hierarchy, footer, and constraints above.
+Replace the person/photography block with:
+Product: reproduce the actual authorized [PRODUCT REFERENCE] faithfully: [SHAPE, MATERIAL, COLOR, PACKAGING, SIZE AND VISIBLE LABELS].
+Scene/action: [PLAUSIBLE USE OR DISPLAY], [SURFACE], [PROPS RELEVANT TO THE PRODUCT].
+Lighting: [SOFT/HARD/NATURAL], showing [MATERIAL DETAIL] with coherent reflections and shadow.
+Do not alter packaging text, add ingredients/accessories/features, create imaginary products, or make unapproved health/performance claims.
+If the product/label cannot be preserved faithfully, flag the asset; do not create a misleading replacement.
+
+4. APPROVED ILLUSTRATION VARIANT
+Use the same copy/reference/account discipline.
+Style: [APPROVED ILLUSTRATION LANGUAGE], [SHAPE/LINE/TEXTURE], [PALETTE].
+Scene and subject: [BRAND-RELEVANT CONCEPT].
+Composition: [CLEAR READING PATH AND NEGATIVE SPACE].
+Do not append photographic skin/camera/anatomy requirements that contradict this medium. Match the actual brand illustration system rather than inventing one.
+
+5. REAL WEBSITE / PORTFOLIO INSERT
+Use [EXACT APPROVED SCREENSHOT] as a factual insert.
+Preserve its layout, actual page content, proportions, and brand; fit it into [DEVICE/SCENE] with plausible perspective and lighting.
+Do not regenerate it as an imaginary interface, add features, change its metrics, or make client claims beyond the fact sheet.
+If text becomes warped, too small, or inaccurate, simplify the insert or use a different approved composition. Do not present an AI-imagined screen as portfolio proof.
+
+6. SINGLE-LINE TEXT REPAIR
+Edit this finished advertisement. Replace ONLY [PRECISE LINE/LOCATION] with EXACTLY:
+"[REPLACEMENT]"
+Preserve every other word, subject identity, photograph, logo, palette, CTA, URL, price/date, composition, and canvas ratio. Match the existing type character and contrast. No additional text. Save a new version and re-check the whole result.
+
+7. CENTERED SMALLER FOOTER REPAIR
+Change ONLY the bottom terms zone.
+Use these exact lines:
+"[LINE 1]"
+"[LINE 2]"
+"[LINE 3 IF NECESSARY]"
+Center the footer block horizontally on the canvas, with consistent line spacing and balanced left/right padding. Make it visually smaller than support/CTA while still legible at phone-feed scale. Keep it safely above the bottom edge on a calm high-contrast surface.
+Preserve the subject, background, logo, all headline/CTA/URL text, colors, and ratio. Do not remove conditions or change the offer. Re-check all copy afterward.
+
+8. CHANGE A REPEATED PERSON
+Change ONLY the primary person in [LOCATION] to a clearly different [AGE/APPEARANCE/HAIR/CLOTHING] with [NATURAL ACTION].
+The face, hair, and silhouette must differ from [USED SUBJECT REFERENCE]. Preserve secondary subjects when requested, background, light, logo, type, exact copy, terms, CTA, URL, and composition. Natural anatomy and matched lighting. Do not repeat a subject whose usage limit is one.
+
+9. NEW RATIO FROM AN APPROVED AD
+Create a purpose-designed [NEW RATIO] version from this approved creative for [PLACEMENT].
+Preserve the message, exact copy/conditions, faithful logo, visual identity, subject/product, and factual assets. Recompose whitespace/type hierarchy for the new shape; do not stretch the image or crop away essential words, face, CTA, or terms.
+If the amount of copy cannot remain readable, flag it and propose a concise approved copy/layout adaptation. This request does not authorize changing the offer.

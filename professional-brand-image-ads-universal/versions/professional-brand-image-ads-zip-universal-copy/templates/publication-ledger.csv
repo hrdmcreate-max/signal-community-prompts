@@ -1,0 +1,1 @@
+delivery_id,content_id,asset_id,asset_sha256,caption_id,caption_sha256,platform,account_type,account_id,scheduler,scheduler_brand_id,planned_datetime,confirmed_datetime,time_zone,publication_mode,status,native_post_id,public_url,submitted_at,verified_at,evidence_path,error,next_action
